@@ -1,5 +1,0 @@
----
-classes:
- - 'profiles::r10k'
- 
-r10k::remote: 'https://almgitlabsvr01.casds.co.uk/core-infrastructure/infrastructure.r10k.git'

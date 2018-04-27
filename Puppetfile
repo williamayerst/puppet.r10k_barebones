@@ -11,8 +11,6 @@ mod 'puppetlabs/inifile'          #    Modify INI files
 mod 'puppetlabs/registry'         #    Modify Windows Registry files
 mod 'puppet/archive'              #    Crompressed archive management
 mod 'puppetlabs/chocolatey'       #    Chocolatey package provider for Puppet on Windows
-mod 'puppet/r10k'                 #    R10k module
-
 mod 'puppetlabs/gcc'
 mod 'puppetlabs/git'
 mod 'puppetlabs/ruby'
